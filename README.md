@@ -1,6 +1,6 @@
 # TaskFlow — React + Flask Full Stack Project
 
-A full-featured task management app built with React (Vite) and Flask, using JWT authentication, SQLite/PostgreSQL, and a clean Kanban board UI.
+A full-featured task management app built with React (Vite) and Flask, using JWT authentication, SQLite, and a clean Kanban board UI.
 
 ---
 
